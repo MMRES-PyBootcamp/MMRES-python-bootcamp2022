@@ -7,7 +7,7 @@ The contents of this year's bootcamp are designed based on [2021](https://github
 Suggested Installation
 ----------------------
 1. Anaconda3 with Jupyter and Spyder (or another editor)
-2. The python packages NumPy, Pandas, SciPy, Matplotlib, Seaborn & Scikit-learn
+2. The python packages NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, pytorch
 3. Git
 
 Timetable
@@ -17,6 +17,13 @@ Timetable
 |--------------|--------------------|-----------------|-------------|---------------------|-----------------------|-----------------------|
 | 15:00-16:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
 | 16:00-17:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Intro to PyTorch.     | Q&A or extra material |
+
+|              | Oct. 10th          | Oct. 11th            | Oct. 12th   | Oct. 13th           | -     | - |
+|--------------|--------------------|----------------------|-------------|---------------------|-------|---|
+| 15:00-16:00  | Neural Networks    | Convolutional Layers | holiday     | Advanced methods    | -     | - |
+| 16:00-17:00  | Backpropagation    | Overfitting          | holiday     | NLP                 | -     | - |
+| 17:00-18:00  | Exercise           | Regularization       | holiday     | -                   | -     | - |
+
 
 Online Resources
 ----------------
@@ -31,3 +38,4 @@ Online Resources
 * [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
 * [The Python Graph Gallery](https://python-graph-gallery.com/)
+* [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
